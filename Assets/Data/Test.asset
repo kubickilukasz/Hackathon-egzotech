@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0a8f2a0d6c8b8745b0efbd871d54be9, type: 3}
+  m_Name: Test
+  m_EditorClassIdentifier: 
+  strength:
+    val: 0
+    factor: 1
+    min: 2
+    max: 3
+  delay:
+    val: 0
+    factor: 1
+    min: 4
+    max: 8
+  speed:
+    val: 0
+    factor: 1
+    min: 1
+    max: 3
